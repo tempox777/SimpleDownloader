@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=SimpleDownloader
+Comment=Download videos and audio with a beautiful GUI
+Exec=/usr/local/bin/simpledownloader-gui
+Icon=simpledownloader
+Terminal=false
+Categories=Network;AudioVideo;Video;
+Keywords=download;youtube;video;audio;yt-dlp;
+StartupNotify=true
+
